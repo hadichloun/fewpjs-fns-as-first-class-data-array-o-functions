@@ -1,4 +1,4 @@
-# JavaScript Functions as First Class Data: Array of Functions
+<!-- # JavaScript Functions as First Class Data: Array of Functions
 
 ## Learning Goals
 
@@ -64,12 +64,12 @@ Continue writing _"generalized"_ functions for
 * `unleashDog`
 
 Each function's implementation will be a generalized invocation of
-`console.log()`.
+`console.log()`. -->
 
-## Create the Array o' Functions
+<!-- ## Create the Array o' Functions
 
 Next, create our "Array o' Functions!" Create a variable called `routine`. This
-variable will be an `Array` all of the functions we've just defined.
+variable will be an `Array` all of the functions we've just defined. -->
 
 ## Create a Function to Process the Array o' Functions
 
